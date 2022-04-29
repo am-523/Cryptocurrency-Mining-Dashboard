@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\bin\Debug\Cryptocurrency Minign Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\bin\Debug\Cryptocurrency Minign Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\bin\Debug\Cryptocurrency Minign Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency_Minign_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency_Minign_Dashboard.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Cryptocurrency Minign Dashboard\Cryptocurrency Minign Dashboard\obj\Debug\Cryptocurrency Minign Dashboard.pdb

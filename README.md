@@ -1,2 +1,1 @@
-# Cryptocurrency Mining Dashboard
- UI DASHBOARD WITH GUNA UI
+# Mining-Dashboard-
